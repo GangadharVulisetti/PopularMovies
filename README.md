@@ -18,7 +18,8 @@ Copyright (c) 2018 Gangadhar Vulisetti
 
 Besides the above notice, the following license applies and this license notice
 must be included in all works derived from this project.
-Copyright 2013 Square, Inc.
+
+PICASSO License
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
