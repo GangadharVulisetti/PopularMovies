@@ -8,6 +8,16 @@ New features coming soon!!!
 
 License
 ============
+This project was submitted by Gangadhar Vulisetti.
+
+As part of Udacity Honor code, your submissions must be your own work, hence
+submitting this project as yours will cause you to break the Udacity Honor Code
+and the suspension of your account.
+
+Copyright (c) 2018 Gangadhar Vulisetti
+
+Besides the above notice, the following license applies and this license notice
+must be included in all works derived from this project.
 Copyright 2013 Square, Inc.
 
 Licensed under the Apache License, Version 2.0 (the "License");
